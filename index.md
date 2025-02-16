@@ -8,7 +8,7 @@ For this project we need to install the _pynput_ package and make use of the _ke
 
 The _keyboard_ moduel is required to monitor keyboard inputs. This allows for the program to listen for key presses.
 
-> The package can be installed via the _Terminal_ using the following command:
+> The package can be installed via the _terminal_ using the following command:
 >
 > ```bash
 > python.exe -m pip install --upgrade pip
