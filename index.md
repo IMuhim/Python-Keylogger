@@ -14,11 +14,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 For this project we need to install the _pynput_ package and make use of the _keyboard_ module.
 
-## Header 2
-
-> This is a blockquote following a header.
+> The package can be installed via the _Terminal_ using the following command:
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> python.exe -m pip install --upgrade pip
 
 Once the package is installed, we need to import the module using the following line:
 
