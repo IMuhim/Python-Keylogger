@@ -20,14 +20,11 @@ For this project we need to install the _pynput_ package and make use of the _ke
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+Once the package is installed, we need to import the module using the following line:
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+```python
+# Importing the necesaary module
+from pynput import keyboard
 ```
 
 ```ruby
