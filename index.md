@@ -2,14 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Installing And Importing The Required Module And Packages
 
 For this project we need to install the _pynput_ package and make use of the _keyboard_ module.
