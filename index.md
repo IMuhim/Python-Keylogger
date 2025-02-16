@@ -10,7 +10,9 @@ The _keyboard_ moduel is required to monitor keyboard inputs. This allows for th
 
 > The package can be installed via the _Terminal_ using the following command:
 >
+> ```bash
 > python.exe -m pip install --upgrade pip
+> ```
 
 Once the package is installed, we need to import the module using the following line:
 
