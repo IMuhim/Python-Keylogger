@@ -76,7 +76,7 @@ if __name__ == "__main__":
     input()
 ```
 
-## The Full Code
+# The Full Code
 
 ```python
 # Import the keyboard module from pynput library
@@ -113,9 +113,9 @@ if __name__ == "__main__":
     input()
 ```
 
-### There's a horizontal rule below this.
+# Contents Of keyfile.txt
 
-* * *
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Here is an unordered list:
 
