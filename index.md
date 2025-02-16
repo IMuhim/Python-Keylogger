@@ -14,6 +14,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 For this project we need to install the _pynput_ package and make use of the _keyboard_ module.
 
+The _keyboard_ moduel is required to monitor keyboard inputs. This allows for the program to listen for key presses.
+
 > The package can be installed via the _Terminal_ using the following command:
 >
 > python.exe -m pip install --upgrade pip
@@ -23,13 +25,6 @@ Once the package is installed, we need to import the module using the following 
 ```python
 # Importing the necesaary module
 from pynput import keyboard
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
 ```
 
 #### Header 4
