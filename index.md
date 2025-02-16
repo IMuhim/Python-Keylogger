@@ -115,7 +115,7 @@ if __name__ == "__main__":
 
 # Contents Of keyfile.txt
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 ### Here is an unordered list:
 
