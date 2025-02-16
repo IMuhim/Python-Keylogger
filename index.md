@@ -23,7 +23,7 @@ The _keyboard_ moduel is required to monitor keyboard inputs. This allows for th
 Once the package is installed, we need to import the module using the following line:
 
 ```python
-# Importing the necesaary module
+# Importing the necessary module
 from pynput import keyboard
 ```
 
